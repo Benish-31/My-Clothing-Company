@@ -1,3 +1,3 @@
 ## Clothing Company Website.
 
-🌎 Website: https://myclothingcompany.netlify.app/
+🌎 Website: www.myclothingcompany.netlify.app
